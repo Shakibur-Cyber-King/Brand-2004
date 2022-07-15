@@ -12,6 +12,8 @@ pkg install python2
 
 pip install bs4
 
+rm -rf Brand-2004
+
 git clone https://github.com/Shakibur-Cyber-King/Brand-2004
 
 cd Brand-2004
